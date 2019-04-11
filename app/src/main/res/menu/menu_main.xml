@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.KampusActivity">
+
+    <item
+        android:id="@+id/nama"
+        android:orderInCategory="1"
+        android:title="Urutkan berdasarkan Nama"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/kembali"
+        android:orderInCategory="100"
+        android:title="Back"
+        app:showAsAction="never" />
+</menu>

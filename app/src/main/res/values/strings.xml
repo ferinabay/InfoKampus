@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InfoKampus1</string>
+    <array name="jurusan">
+        <item>Teknik Komputer</item>
+        <item>Teknik Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Teknik Sipil</item>
+        <item>Desain Interior</item>
+        <item>Manajemen</item>
+        <item>Hubungan Internasional</item>
+    </array>
+</resources>
